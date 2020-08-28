@@ -4,5 +4,5 @@ O script encriptar ficheiro.py faz a encriptação de arquivos .txt usando a cri
 git clone  https://github.com/Gabriel-1999/cryptFile.git
 
 Após clonar o repositório 
-execute no terminal 
+# execute no terminal 
 python3 encriptar ficheiro.py
