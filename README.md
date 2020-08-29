@@ -1,14 +1,16 @@
 ﻿O script encriptar ficheiro.py faz a encriptação de arquivos .txt usando a criptografia de cifra de César 
 
-par rodaro programa siga os passos a baixo
+para rodar o programa siga os passos a baixo
 
 # Instalar o git no debian
 
 $ sudo apt-get install git
+$ sudo apt-get install python3
 
 # Instalar o git no Termux
 
 $ pkg install git
+$ pkg install python3
 
 # Clone o Repositório 
 
